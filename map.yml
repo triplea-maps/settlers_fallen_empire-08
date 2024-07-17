@@ -1,0 +1,4 @@
+map_name: settlers_fallen_empire
+games:
+- {game_name: 'Settlers: Fallen Empire', file_name: settlers_fallen_empire.xml}
+version: 0
